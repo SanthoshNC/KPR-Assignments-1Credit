@@ -5,8 +5,8 @@
 
 | Status         | Questions     | 
 |----------------|---------------|
-| <ul><li>- [x] </li></ul> | Install the below mentioned tools/tech/framwork & add the screenshot |
-| <ul><li>- [ ] </li></ul> | [Accounts] Create the accounts and add the screenshot here |
+| <ul><li>- [✅] </li></ul> | Install the below mentioned tools/tech/framwork & add the screenshot |
+| <ul><li>- [✅] </li></ul> | [Accounts] Create the accounts and add the screenshot here |
 | <ul><li>- [ ] </li></ul> | [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo |
 | <ul><li>- [ ] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages |
 | <ul><li>- [ ] </li></ul> | [AWS] Create the below mentioned AWS services |
@@ -30,9 +30,15 @@
 	- NPM 
 	- Git
 	- VSCode
-> answer here!
+	
+> Tools Screenshots
 
 ![Tools Install](assets/tools.png)
+
+![VS CODE](assets/vs.png)
+
+<hr style="border: 1px solid red;">
+
 
 ***
 
@@ -40,17 +46,50 @@
 	- GitHub (with Personal Mail ID)
 	- AWS Free Tier Account (with Personal Mail ID)
 	- Dev.to (with Personal Mail ID)
-> Add your answer here!
+
+> Accounts Screnshots
+
+
+![Github](assets/git_ac.png)
+
+![dev.to](assets/devto.png)
+
+[Visit my Dev.to article](https://dev.to/mathiarasu/miro-kbk)
+
+
+<hr style="border: 1px solid red;">
+
 
 ***
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
-> Add your answer here!
+
+> First React APP 
+
+![react](assets/hellor.png)
+
+![reactc](assets/hellocom.png)
+
+[visit my repo link](https://github.com/Mathiarasu05/KPR-Assignments-1Credit)
+
+<hr style="border: 1px solid red;">
+
 
 ***
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
-> Add your answer here!
+
+
+> Deploy React app ScreenShots
+
+![reactd](assets/gitpage.png)
+
+![reactddd](assets/dep.png)
+
+[website link](https://mathiarasu05.github.io/22CB033-Mathiarasu/)
+
+
+<hr style="border: 1px solid red;">
 
 ***
 
