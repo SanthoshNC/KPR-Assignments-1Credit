@@ -6,13 +6,13 @@
 | Status         | Questions     | 
 |----------------|---------------|
 | <ul><li>- [x] </li></ul> | Install the below mentioned tools/tech/framwork & add the screenshot |
-| <ul><li>- [ ] </li></ul> | [Accounts] Create the accounts and add the screenshot here |
-| <ul><li>- [ ] </li></ul> | [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo |
+| <ul><li>- [x] </li></ul> | [Accounts] Create the accounts and add the screenshot here |
+| <ul><li>- [x] </li></ul> | [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo |
 | <ul><li>- [ ] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages |
 | <ul><li>- [ ] </li></ul> | [AWS] Create the below mentioned AWS services |
 | <ul><li>- [ ] </li></ul> | [AWS] Deploy the app in S3 and access via CloudFront in manual way  |
 | <ul><li>- [ ] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in AWS (S3 + CloudFront)  |
-| <ul><li>- [ ] </li></ul> | [Impromptu Learning] Write a Dev.to post for the given tool  |
+| <ul><li>- [x] </li></ul> | [Impromptu Learning] Write a Dev.to post for the given tool  |
 | <ul><li>- [ ] </li></ul> | [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app  |
 
 ***
@@ -42,11 +42,23 @@ VSCODE ![vscode](https://github.com/user-attachments/assets/3f6e7399-a8d2-4004-a
 	- AWS Free Tier Account (with Personal Mail ID)
 	- Dev.to (with Personal Mail ID)
 > Add your answer here!
+GitHub ![github](https://github.com/user-attachments/assets/b760e8a1-0edd-4347-a2bf-1315812b7c0b)
+> AWS Free Tier ![aws-freetier](https://github.com/user-attachments/assets/01c41a91-8b97-454e-a230-6b7fd05eea3b)
+> Dev.to ![dev to](https://github.com/user-attachments/assets/b622029b-6fa8-4879-b18a-e6c010f407d6)
+
+
 
 ***
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
 > Add your answer here!
+![Screenshot 2024-11-07 142044](https://github.com/user-attachments/assets/cd5d1729-0265-4fb4-8b81-9f279f7ff3f9)
+> Steps ![Screenshot 2024-11-07 152632](https://github.com/user-attachments/assets/c0399a9f-9035-4dac-b40b-abb242c35913)
+> ![Screenshot 2024-11-07 152642](https://github.com/user-attachments/assets/3f32d31d-fd58-478f-9bb3-306f2e7d1770)
+> ![Screenshot 2024-11-07 152656](https://github.com/user-attachments/assets/cec1af6d-21c2-4105-8438-086de968accd)
+
+
+
 
 ***
 
@@ -84,6 +96,7 @@ VSCODE ![vscode](https://github.com/user-attachments/assets/3f6e7399-a8d2-4004-a
 		Whether it is open source or paid one
 		Icon / Logo
 > Add your answer here!
+![image](https://github.com/user-attachments/assets/a1bed320-7f90-481f-92f2-e262cfa3938a)
 
 ***
 
