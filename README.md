@@ -7,8 +7,8 @@
 |----------------|---------------|
 | <ul><li>- [✅] </li></ul> | Install the below mentioned tools/tech/framwork & add the screenshot |
 | <ul><li>- [✅] </li></ul> | [Accounts] Create the accounts and add the screenshot here |
-| <ul><li>- [ ] </li></ul> | [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo |
-| <ul><li>- [ ] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages |
+| <ul><li>- [✅] </li></ul> | [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo |
+| <ul><li>- [✅] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages |
 | <ul><li>- [ ] </li></ul> | [AWS] Create the below mentioned AWS services |
 | <ul><li>- [ ] </li></ul> | [AWS] Deploy the app in S3 and access via CloudFront in manual way  |
 | <ul><li>- [ ] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in AWS (S3 + CloudFront)  |
@@ -20,10 +20,10 @@
 ### 1 Credit Assignments - Answers and Screenshots
 
 > [!WARNING]
-> Pls submit the correct screenshots
+> All Answers below are Submited by Mathiarasu R S / 22CB033 🎯
 
 > [!CAUTION]
-> Pls don't copy from others. Marks will be reduced for both students
+> Check Out it ✅
 
 #### #1 Install the below mentioned tools/tech/framwork & add the screenshot:
 	- NodeJS 
@@ -34,13 +34,19 @@
 > Tools Screenshots
 
 ![Tools Install](assets/tools.png)
+> TO CHECK VERSIONS OF THE TOOLS  
+> node -v
+> npm -v
+> git -v
 
 ![VS CODE](assets/vs.png)
+>VS CODE DEV TOOL
+
 
 <hr style="border: 1px solid red;">
 
-
 ***
+
 
 #### #2 [Accounts] Create the accounts and add the screenshot here
 	- GitHub (with Personal Mail ID)
@@ -51,10 +57,12 @@
 
 
 ![Github](assets/git_ac.png)
+>GIT HUB ACCOUNT MATHI
 
 ![dev.to](assets/devto.png)
+>DEV.TO ACCOUNT MATHI
 
-[Visit my Dev.to article](https://dev.to/mathiarasu/miro-kbk)
+[Visit my Dev.to article about MIRO ](https://dev.to/mathiarasu/miro-kbk)
 
 
 <hr style="border: 1px solid red;">
@@ -67,8 +75,10 @@
 > First React APP 
 
 ![react](assets/hellor.png)
+>SIMPLE REACT APP
 
 ![reactc](assets/hellocom.png)
+>COMMANDS ARE USED TO CREATE REACT APP AND GIT ACTIONS 
 
 [visit my repo link](https://github.com/Mathiarasu05/KPR-Assignments-1Credit)
 
@@ -80,11 +90,13 @@
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
 
 
-> Deploy React app ScreenShots
+> Deploy React app ScreenShots in github pages 
 
 ![reactd](assets/gitpage.png)
+> Commands are used to deploye in github pages
 
 ![reactddd](assets/dep.png)
+>Website Deployed 
 
 [website link](https://mathiarasu05.github.io/22CB033-Mathiarasu/)
 
@@ -121,7 +133,12 @@
 		Parent Company of that tool
 		Whether it is open source or paid one
 		Icon / Logo
-> Add your answer here!
+> BLOG LINK 
+<hr style="border: 1px solid red;">
+
+[Visit my Dev.to article about MIRO ](https://dev.to/mathiarasu/miro-kbk)
+
+<hr style="border: 1px solid red;">
 
 ***
 
