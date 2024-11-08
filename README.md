@@ -9,11 +9,11 @@
 | <ul><li>- [✅] </li></ul> | [Accounts] Create the accounts and add the screenshot here |
 | <ul><li>- [✅] </li></ul> | [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo |
 | <ul><li>- [✅] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages |
-| <ul><li>- [ ] </li></ul> | [AWS] Create the below mentioned AWS services |
-| <ul><li>- [ ] </li></ul> | [AWS] Deploy the app in S3 and access via CloudFront in manual way  |
-| <ul><li>- [ ] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in AWS (S3 + CloudFront)  |
-| <ul><li>- [ ] </li></ul> | [Impromptu Learning] Write a Dev.to post for the given tool  |
-| <ul><li>- [ ] </li></ul> | [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app  |
+| <ul><li>- [✅] </li></ul> | [AWS] Create the below mentioned AWS services |
+| <ul><li>- [✅] </li></ul> | [AWS] Deploy the app in S3 and access via CloudFront in manual way  |
+| <ul><li>- [✅] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in AWS (S3 + CloudFront)  |
+| <ul><li>- [✅] </li></ul> | [Impromptu Learning] Write a Dev.to post for the given tool  |
+| <ul><li>- [✅] </li></ul> | [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app  |
 
 ***
 
@@ -101,7 +101,7 @@
 ![reactddd](assets/dep.png)
 >Website Deployed 
 
-[website link](https://mathiarasu05.github.io/22CB033-Mathiarasu/)
+[website link git pages ](https://mathiarasu05.github.io/22CB033-Mathiarasu/)
 
 
 <hr style="border: 1px solid red;">
@@ -112,17 +112,38 @@
 	- IAM
 	- S3
 	- CloudFront
-> Add your answer here!
+> IAM and S3 services created pic
+
+![iam](assets/iam.png)
+>IAM
+
+![s3](assets/s3.png)
+>S3 
 
 ***
 
 #### #6 [AWS] Deploy the app in S3 and access via CloudFront in manual way
-> Add your answer here!
+> Deploy React Website using S3 
+
+![deploy](assets/dep.png)
+![deployr](assets/deppic.png)
+
+[webist link s3 ](http://mathi-arasu.s3-website.eu-north-1.amazonaws.com)
+
+http://mathi-arasu.s3-website.eu-north-1.amazonaws.com
 
 ***
 
 #### #7 [Github Actions] Create a Github Actions pipeline to deploy the app in AWS (S3 + CloudFront)
 > Add your answer here!
+
+![deploy](assets/yml2.png)
+![deploy](assets/yml1.jpg)
+![deploy](assets/home1.png)
+![deploy](assets/home2.png)
+
+[webist link s3 services ](http://mathi-arasu.s3-website.eu-north-1.amazonaws.com)
+
 
 ***
 
@@ -151,6 +172,31 @@
 	- Github Pages URL
  	- Github Actions for S3
  	- AWS CloudFront URL
-> Add your answer here!
+> 
+![Githubdd](assets/home1.png)
+![Githubddd](assets/home2.png)
+![Githubdddd](assets/home3.png)
+![Githubddddd](assets/home4.png)
+
+
+[GITHUB Page URL ](https://mathiarasu05.github.io/developer-cards-react-app/)
+
+![iam](assets/iam.png)
+>IAM
+
+![s3](assets/s3.png)
+>S3 
+
+
+![deploy](assets/dep.png)
+
+
+[webist link s3 services ](http://mathi-arasu.s3-website.eu-north-1.amazonaws.com)
+
+
+>Thank You.....!
+
+
+>Crafted by Mathiarasu R S 22CB033 🎯
 
 ***
