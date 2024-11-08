@@ -30,20 +30,28 @@
 	- NPM 
 	- Git
 	- VSCode
-> Add your answer here!
+> [image](https://github.com/user-attachments/assets/d6b6a7b4-11d1-4baf-a6a1-bdd23e3b7eb4)
+!
 
 ***
 
 #### #2 [Accounts] Create the accounts and add the screenshot here
 	- GitHub (with Personal Mail ID)
+ ![image](https://github.com/user-attachments/assets/7a3ac330-61c1-4078-ae87-412044892dd9)
+
 	- AWS Free Tier Account (with Personal Mail ID)
+ ![image](https://github.com/user-attachments/assets/a36ef0d8-cd87-4980-a5dd-2bf18291c3df)
+
+
 	- Dev.to (with Personal Mail ID)
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/d330e67b-6703-4991-9a6a-1c6522616082)
+
 
 ***
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/8db55e80-186e-4df2-ac9f-0461cd60fc44)
+
 
 ***
 
@@ -80,7 +88,7 @@
 		Parent Company of that tool
 		Whether it is open source or paid one
 		Icon / Logo
-> Add your answer here!
+> https://dev.to/sarmithaa_prakash_3236650/selenium-tool-in-devops-5836
 
 ***
 
