@@ -11,9 +11,9 @@
 | <ul><li>- [x] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages |
 | <ul><li>- [ ] </li></ul> | [AWS] Create the below mentioned AWS services |
 | <ul><li>- [ ] </li></ul> | [AWS] Deploy the app in S3 and access via CloudFront in manual way  |
-| <ul><li>- [x] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in AWS (S3 + CloudFront)  |
+| <ul><li>- [ ] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in AWS (S3 + CloudFront)  |
 | <ul><li>- [x] </li></ul> | [Impromptu Learning] Write a Dev.to post for the given tool  |
-| <ul><li>- [ ] </li></ul> | [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app  |
+| <ul><li>- [x] </li></ul> | [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app  |
 
 ***
 
@@ -121,6 +121,12 @@ Deployed App URL: https://rithiarc.github.io/22CB045-RITHIKA-L/
 	- Github Pages URL
  	- Github Actions for S3
  	- AWS CloudFront URL
-> Add your answer here!
+Github Repo URL: https://github.com/Rithiarc/developer-cards-react-app
+Github Actions Pipeline fot Github Page:
+![image](https://github.com/user-attachments/assets/0fa1d5a3-7d84-4924-99df-84ae4425e5d9)
+Github Pages URL: https://rithiarc.github.io/developer-cards-react-app/
+![image](https://github.com/user-attachments/assets/6d029b15-c585-494e-a935-97d4cb6a9a49)
+
+
 
 ***
