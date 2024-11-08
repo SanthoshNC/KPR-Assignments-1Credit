@@ -8,12 +8,12 @@
 | <ul><li>- [x] </li></ul> | Install the below mentioned tools/tech/framwork & add the screenshot |
 | <ul><li>- [x] </li></ul> | [Accounts] Create the accounts and add the screenshot here |
 | <ul><li>- [x] </li></ul> | [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo |
-| <ul><li>- [ ] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages |
+| <ul><li>- [x] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages |
 | <ul><li>- [ ] </li></ul> | [AWS] Create the below mentioned AWS services |
 | <ul><li>- [ ] </li></ul> | [AWS] Deploy the app in S3 and access via CloudFront in manual way  |
 | <ul><li>- [ ] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in AWS (S3 + CloudFront)  |
 | <ul><li>- [x] </li></ul> | [Impromptu Learning] Write a Dev.to post for the given tool  |
-| <ul><li>- [ ] </li></ul> | [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app  |
+| <ul><li>- [x] </li></ul> | [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app  |
 
 ***
 
@@ -126,5 +126,13 @@ Deployed URL:https://tharunikal.github.io/22CB059-THARUNIKA-L/
  	- Github Actions for S3
  	- AWS CloudFront URL
 > Add your answer here!
+- Github Repo URL :https://github.com/tharunikal/developer-cards-react-app.git
+
+- Github Actions Pipeline:https://github.com/tharunikal/22CB059-THARUNIKA-L/blob/main/.github/workflows/gh-deploy.yml
+- ![image](https://github.com/user-attachments/assets/8b19c6f5-1bde-4ffe-86a2-2fcd05e3116d)
+- ![image](https://github.com/user-attachments/assets/f9d87779-0a77-4898-91ef-24ecc9e7f6f0)
+
+- 
+
 
 ***
