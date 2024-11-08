@@ -76,7 +76,8 @@
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
 
 > First React APP 
-
+> CHECK THE assingmentone FOLDER
+> 
 ![react](assets/hellor.png)
 >SIMPLE REACT APP
 
