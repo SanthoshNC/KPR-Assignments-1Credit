@@ -32,7 +32,8 @@
 	- VSCode
 > Add your answer here!
 
-***
+***![Screenshot 2024-11-08 084118](https://github.com/user-attachments/assets/88558c5e-b105-448e-a1ec-70356eeeff43)
+
 
 #### #2 [Accounts] Create the accounts and add the screenshot here
 	- GitHub (with Personal Mail ID)
@@ -40,12 +41,16 @@
 	- Dev.to (with Personal Mail ID)
 > Add your answer here!
 
-***
+***github - ![Screenshot 2024-11-08 085710](https://github.com/user-attachments/assets/3c7c7cbb-9ebb-4b2b-a577-ef557ba7deb5)
+dev.to - ![Screenshot 2024-11-08 085710](https://github.com/user-attachments/assets/554496bf-8f3b-48d1-a655-34d5f22deffc)
+
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
 > Add your answer here!
 
-***
+***react app - ![Screenshot 2024-11-08 085710](https://github.com/user-attachments/assets/5d8a38b4-9c45-45c6-bd3e-70fc55fc7a2d)
+github repo - https://github.com/bharathi-025/22cb011-bharathi
+
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
 > Add your answer here!
@@ -82,7 +87,7 @@
 		Icon / Logo
 > Add your answer here!
 
-***
+*** https://dev.to/bharathi_05/bigpanda-3mb7
 
 #### #9 [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app
 	- Github Repo URL
