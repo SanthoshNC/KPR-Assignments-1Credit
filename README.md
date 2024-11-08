@@ -31,18 +31,28 @@
 	- Git
 	- VSCode
 > Add your answer here!
+> ![Screenshot 2024-11-08 083609](https://github.com/user-attachments/assets/583cede9-8513-413e-bdc5-3014f4ebcc27)
+
 
 ***
 
 #### #2 [Accounts] Create the accounts and add the screenshot here
 	- GitHub (with Personal Mail ID)
+ ![Screenshot 2024-11-08 083952](https://github.com/user-attachments/assets/89fedd91-6cef-4e67-b177-4081fad670ba)
+
 	- AWS Free Tier Account (with Personal Mail ID)
+ ![Screenshot 2024-11-08 085012](https://github.com/user-attachments/assets/f5e904df-ec5d-4031-8cdc-7452635a340f)
+
 	- Dev.to (with Personal Mail ID)
+ ![Screenshot 2024-11-08 085048](https://github.com/user-attachments/assets/3f29523c-00d1-40b7-9e04-0370a2fe194e)
+
 > Add your answer here!
 
 ***
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
+![Screenshot 2024-11-08 085310](https://github.com/user-attachments/assets/1c5dc328-5eca-4498-9029-9d8588141fc1)
+
 > Add your answer here!
 
 ***
