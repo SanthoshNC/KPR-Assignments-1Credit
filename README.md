@@ -59,6 +59,9 @@
 ![Github](assets/git_ac.png)
 >GIT HUB ACCOUNT MATHI
 
+![Github](assets/aws.png)
+>AWS Account 
+
 ![dev.to](assets/devto.png)
 >DEV.TO ACCOUNT MATHI
 
