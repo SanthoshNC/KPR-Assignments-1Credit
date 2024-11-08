@@ -30,7 +30,7 @@
 	- NPM 
 	- Git
 	- VSCode
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/999a63ad-3ba0-4518-979e-19d4578d251b)
 
 ***
 
@@ -38,12 +38,15 @@
 	- GitHub (with Personal Mail ID)
 	- AWS Free Tier Account (with Personal Mail ID)
 	- Dev.to (with Personal Mail ID)
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/c76b07ff-53a1-4cd3-a8cb-7c52510b9d22)
+![image](https://github.com/user-attachments/assets/40b0c027-312a-4e84-b960-d744b38d3b15)
+![image](https://github.com/user-attachments/assets/e89e777f-7de5-41ad-9e9d-8db446b98f3a)
 
 ***
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
-> Add your answer here!
+https://github.com/SOWMIYA-BALACHANDER/22cb055-sowmiya
+![image](https://github.com/user-attachments/assets/eed71db6-8e9c-4893-9490-85f49952afd9)
 
 ***
 
