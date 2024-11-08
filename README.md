@@ -126,6 +126,15 @@ Deployed URL:https://tharunikal.github.io/22CB059-THARUNIKA-L/
  	- Github Actions for S3
  	- AWS CloudFront URL
 > Add your answer here!
+	- Github Repo URL https://github.com/tharunikal/developer-cards-react-app.git
+
+> - Github Actions Pipeline for Github Pages URL:https://github.com/tharunikal/developer-cards-react-app/blob/main/.github/workflows/gh-deploy.yml
+![image](https://github.com/user-attachments/assets/4316f273-52e3-453d-a7a1-d5c2cec9bd6b)
+![image](https://github.com/user-attachments/assets/56da8001-62b8-4209-b360-4ef9b9ff4966)
+>- Github Pages URL:https://tharunikal.github.io/developer-cards-react-app/
+>- ![image](https://github.com/user-attachments/assets/daa67cf0-9abe-4de0-b00d-33cb2a45d76f)
+
+
 
 - 
 
