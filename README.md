@@ -52,6 +52,7 @@
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
 ![Screenshot 2024-11-08 085310](https://github.com/user-attachments/assets/1c5dc328-5eca-4498-9029-9d8588141fc1)
+http://localhost:3000/
 
 > Add your answer here!
 
