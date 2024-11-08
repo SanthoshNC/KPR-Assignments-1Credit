@@ -67,6 +67,15 @@ GitHub ![github](https://github.com/user-attachments/assets/b760e8a1-0edd-4347-a
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
 > Add your answer here!
 
+.yml file the pipeline
+> URL:https://github.com/tharunikal/22CB059-THARUNIKA-L/blob/main/.github/workflows/gh-deploy.yml
+> ![image](https://github.com/user-attachments/assets/403850ce-7e39-455b-859a-2f2b48f49d5d)
+> ![image](https://github.com/user-attachments/assets/d19d8d45-f50d-4199-b917-9dc1e06636e1)
+Github Actions
+> ![image](https://github.com/user-attachments/assets/021ff7d6-cf77-4b94-beaa-92e3be961806)
+Deployed URL:https://tharunikal.github.io/22CB059-THARUNIKA-L/
+> ![image](https://github.com/user-attachments/assets/d61c4e66-6edc-44c1-8005-dd04f27e8109)
+
 ***
 
 #### #5 [AWS] Create the below mentioned AWS services
@@ -83,7 +92,8 @@ GitHub ![github](https://github.com/user-attachments/assets/b760e8a1-0edd-4347-a
 ***
 
 #### #7 [Github Actions] Create a Github Actions pipeline to deploy the app in AWS (S3 + CloudFront)
-> Add your answer here!
+
+
 
 ***
 
@@ -98,6 +108,7 @@ GitHub ![github](https://github.com/user-attachments/assets/b760e8a1-0edd-4347-a
 		Whether it is open source or paid one
 		Icon / Logo
 > Add your answer here!
+> Blog URL:https://dev.to/tharunikal/tricentis-tosca-a-powerful-tool-for-continuous-testing-528b
 ![image](https://github.com/user-attachments/assets/a1bed320-7f90-481f-92f2-e262cfa3938a)
 > ![image](https://github.com/user-attachments/assets/560f5431-8acb-404b-a9c3-1f21cb49a73a)
 > ![image](https://github.com/user-attachments/assets/b126f17c-82a3-4b2e-a648-3c36df566e42)
