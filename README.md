@@ -95,6 +95,9 @@
 
 
 > Deploy React app ScreenShots in github pages 
+![deploy](assets/yml2.png)
+> 
+![deploy](assets/yml1.jpg)
 
 ![reactd](assets/gitpage.png)
 > Commands are used to deploye in github pages
