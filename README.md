@@ -50,7 +50,7 @@
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
 >https://github.com/pranneeth-1511/22cb043-pranneeth.git
-> ![AWS create](https://github.com/user-attachments/assets/3620db13-352d-42dd-8355-98b156833622)
+>![Create React](https://github.com/user-attachments/assets/41657659-e02c-4775-b422-0757de43b8a2)
 > ![App running](https://github.com/user-attachments/assets/15004cfe-2733-4162-b60c-6d9730da7b51)
 
 
