@@ -85,9 +85,9 @@ https://github.com/SABARIMURTHY/22cb047-Sabari-M.git
 		Parent Company of that tool
 		Whether it is open source or paid one
 		Icon / Logo
-> Add your answer here!
+> [Add your answer here!](https://dev.to/sabari_sabari_566ef937a7d/sumologic-5jl)
 
-***https://dev.to/sabari_sabari_566ef937a7d/sumologic-5jl
+***
 
 #### #9 [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app
 	- Github Repo URL
@@ -95,6 +95,9 @@ https://github.com/SABARIMURTHY/22cb047-Sabari-M.git
 	- Github Pages URL
  	- Github Actions for S3
  	- AWS CloudFront URL
-> Add your answer here!
+>https://github.com/SABARIMURTHY/developer-cards-react-app.git
+>https://sabarimurthy.github.io/developer-cards-react-app/
+> ![image](https://github.com/user-attachments/assets/899c00d2-f150-4155-86b9-8df51d0305ad)
+
 
 ***
