@@ -51,7 +51,8 @@ https://github.com/SOWMIYA-BALACHANDER/22cb055-sowmiya
 ***
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
-![image](https://github.com/user-attachments/assets/8a9268ab-0cd8-41fd-8d45-edbb5d4a8b46)
+![image](https://github.com/user-attachments/assets/0a760c36-45fe-4e3c-8864-d16d2d0b0b9b)
+![image](https://github.com/user-attachments/assets/eaa27028-24dd-478e-a2a1-a4c8dbac0df0)
 
 ***
 
@@ -83,7 +84,7 @@ https://github.com/SOWMIYA-BALACHANDER/22cb055-sowmiya
 		Parent Company of that tool
 		Whether it is open source or paid one
 		Icon / Logo
-> Add your answer here!
+https://dev.to/sowmiyabalachander/stack-overflow-an-essential-tool-for-developers-and-devops-teams-epp
 
 ***
 
