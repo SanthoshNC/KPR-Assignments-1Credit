@@ -87,7 +87,7 @@ https://github.com/SABARIMURTHY/22cb047-Sabari-M.git
 		Icon / Logo
 > Add your answer here!
 
-***
+***https://dev.to/sabari_sabari_566ef937a7d/sumologic-5jl
 
 #### #9 [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app
 	- Github Repo URL
