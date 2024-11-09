@@ -6,14 +6,14 @@
 | Status         | Questions     | 
 |----------------|---------------|
 | <ul><li>- [x] </li></ul> | Install the below mentioned tools/tech/framwork & add the screenshot |
-| <ul><li>- [ ] </li></ul> | [Accounts] Create the accounts and add the screenshot here |
-| <ul><li>- [ ] </li></ul> | [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo |
-| <ul><li>- [ ] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages |
+| <ul><li>- [x] </li></ul> | [Accounts] Create the accounts and add the screenshot here |
+| <ul><li>- [x] </li></ul> | [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo |
+| <ul><li>- [x] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages |
 | <ul><li>- [ ] </li></ul> | [AWS] Create the below mentioned AWS services |
 | <ul><li>- [ ] </li></ul> | [AWS] Deploy the app in S3 and access via CloudFront in manual way  |
 | <ul><li>- [ ] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in AWS (S3 + CloudFront)  |
-| <ul><li>- [ ] </li></ul> | [Impromptu Learning] Write a Dev.to post for the given tool  |
-| <ul><li>- [ ] </li></ul> | [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app  |
+| <ul><li>- [x] </li></ul> | [Impromptu Learning] Write a Dev.to post for the given tool  |
+| <ul><li>- [x] </li></ul> | [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app  |
 
 ***
 
@@ -102,3 +102,7 @@ github repo - https://github.com/bharathi-025/22cb011-bharathi
 > Add your answer here!
 
 ***
+web link - https://bharathi-025.github.io/developer-cards-react-app/
+Repo link- https://github.com/bharathi-025/developer-cards-react-app.git
+![image](https://github.com/user-attachments/assets/ebd1d65d-a958-4713-bb2f-f799d797527c)
+
