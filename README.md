@@ -29,14 +29,14 @@
 #### #1 Install the listed tools/technologies/frameworks & add a screenshot:
 
 - NodeJS:
-  ![NodeJS Screenshot](https://github.com/user-attachments/assets/3b542130-54c4-4a49-a410-1a2657529761)
+
   
 - NPM
 - Git
 - VSCode
 
 > **Add your answer here!**
-
+  ![NodeJS Screenshot](https://github.com/user-attachments/assets/3b542130-54c4-4a49-a410-1a2657529761)
 ***
 
 #### #2 [Accounts] Create the accounts and add a screenshot
