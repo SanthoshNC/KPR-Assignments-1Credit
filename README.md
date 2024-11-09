@@ -51,7 +51,7 @@ https://github.com/SOWMIYA-BALACHANDER/22cb055-sowmiya
 ***
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/8a9268ab-0cd8-41fd-8d45-edbb5d4a8b46)
 
 ***
 
