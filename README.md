@@ -30,26 +30,25 @@
 	- NPM 
 	- Git
 	- VSCode
-> Add your answer here!
+> ![Screenshot 2024-11-08 083948](https://github.com/user-attachments/assets/251ed924-ac2a-4b2e-ac5b-164525511168)
 
-***![Screenshot 2024-11-08 083948](https://github.com/user-attachments/assets/251ed924-ac2a-4b2e-ac5b-164525511168)
+***
 
 
 #### #2 [Accounts] Create the accounts and add the screenshot here
 	- GitHub (with Personal Mail ID)
 	- AWS Free Tier Account (with Personal Mail ID)
 	- Dev.to (with Personal Mail ID)
-> Add your answer here!
-
-***![Screenshot 2024-11-08 084211](https://github.com/user-attachments/assets/5d2a3649-d462-4129-876a-58110f67937b)
+> ![Screenshot 2024-11-08 084211](https://github.com/user-attachments/assets/5d2a3649-d462-4129-876a-58110f67937b)
 ![Screenshot 2024-11-08 084730](https://github.com/user-attachments/assets/e790d273-de43-4b4c-b4db-5015ffb1bedf)
+***
 
 
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
-> Add your answer here!
+> https://github.com/Kaviyashree45/22cb025-kaviyashree.git
 
-***https://github.com/Kaviyashree45/22cb025-kaviyashree.git
+***
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
 > Add your answer here!
@@ -70,7 +69,8 @@
 ***
 
 #### #7 [Github Actions] Create a Github Actions pipeline to deploy the app in AWS (S3 + CloudFront)
-> Add your answer here!
+> ![Screenshot 2024-11-09 133816](https://github.com/user-attachments/assets/f51600de-f9ad-40eb-94f3-47aa61ad69c5)
+
 
 ***
 
@@ -84,9 +84,9 @@
 		Parent Company of that tool
 		Whether it is open source or paid one
 		Icon / Logo
-> Add your answer here!
+> https://dev.to/kaviyashree_tamilarasan_7/kubernetics-2od2
 
-***https://dev.to/kaviyashree_tamilarasan_7/kubernetics-2od2
+***
 
 #### #9 [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app
 	- Github Repo URL
