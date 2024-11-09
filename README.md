@@ -57,7 +57,8 @@ github repo - https://github.com/bharathi-025/22cb011-bharathi
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
 > Add your answer here!
 
-***
+***![Screenshot 2024-11-09 135932](https://github.com/user-attachments/assets/f0bf3cb8-5004-4b58-b589-42470fd0d393)
+
 
 #### #5 [AWS] Create the below mentioned AWS services
 	- IAM
