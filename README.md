@@ -39,19 +39,23 @@
 	- GitHub (with Personal Mail ID)
 	- AWS Free Tier Account (with Personal Mail ID)
 	- Dev.to (with Personal Mail ID)
-> Add your answer here!
+> <img width="959" alt="image" src="https://github.com/user-attachments/assets/cf368ec1-027a-4721-ae39-e0bfbc47faa5">
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/1d794c72-c2b1-4601-a79d-22ec85223ec7">
 
 ***
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
 > Add your answer here!
 
-***
+***<img width="959" alt="image" src="https://github.com/user-attachments/assets/847fd1eb-2980-4e87-86c0-f4dfb6fcfa94">
+https://github.com/SABARIMURTHY/22cb047-Sabari-M.git
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
 > Add your answer here!
 
-***
+***<img width="959" alt="image" src="https://github.com/user-attachments/assets/dabd05ac-6534-4e03-b05d-88037e770d6a">
+
 
 #### #5 [AWS] Create the below mentioned AWS services
 	- IAM
