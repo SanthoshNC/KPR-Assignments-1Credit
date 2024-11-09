@@ -42,13 +42,15 @@
 > Add your answer here!
 
 ***github - ![Screenshot 2024-11-08 085710](https://github.com/user-attachments/assets/3c7c7cbb-9ebb-4b2b-a577-ef557ba7deb5)
-dev.to - ![Screenshot 2024-11-08 085710](https://github.com/user-attachments/assets/554496bf-8f3b-48d1-a655-34d5f22deffc)
+dev.to - ![Screenshot 2024-11-08 085834](https://github.com/user-attachments/assets/8be28a6b-ef0c-46c2-b5e0-3da43c0fbddb)
+
 
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
 > Add your answer here!
 
-***react app - ![Screenshot 2024-11-08 085710](https://github.com/user-attachments/assets/5d8a38b4-9c45-45c6-bd3e-70fc55fc7a2d)
+***react app - ![Screenshot (141)](https://github.com/user-attachments/assets/acbfd3df-b79e-4c7f-8f82-30a17ac361b1)
+
 github repo - https://github.com/bharathi-025/22cb011-bharathi
 
 
@@ -85,6 +87,7 @@ github repo - https://github.com/bharathi-025/22cb011-bharathi
 		Parent Company of that tool
 		Whether it is open source or paid one
 		Icon / Logo
+  l
 > Add your answer here!
 
 *** https://dev.to/bharathi_05/bigpanda-3mb7
