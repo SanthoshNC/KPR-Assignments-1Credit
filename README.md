@@ -37,6 +37,8 @@
 	- AWS Free Tier Account (with Personal Mail ID)
 	- Dev.to (with Personal Mail ID)
 ***github - ![Screenshot 2024-11-08 085710](https://github.com/user-attachments/assets/3c7c7cbb-9ebb-4b2b-a577-ef557ba7deb5)
+aws - ![image](https://github.com/user-attachments/assets/518ac92e-4429-4180-8a5d-0812ee2b4dcc)
+
 dev.to - ![Screenshot 2024-11-08 085834](https://github.com/user-attachments/assets/8be28a6b-ef0c-46c2-b5e0-3da43c0fbddb)
 
 
