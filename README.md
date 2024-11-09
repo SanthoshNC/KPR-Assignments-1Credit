@@ -39,7 +39,7 @@
 	- GitHub (with Personal Mail ID)
 	- AWS Free Tier Account (with Personal Mail ID)
 	- Dev.to (with Personal Mail ID)
-> ![image](https://github.com/user-attachments/assets/b981b8a3-825c-4098-bbce-88cb803d2ead)
+> ![Github Create](https://github.com/user-attachments/assets/2330b7eb-73f5-45e8-a8bf-ccc0ba212d4e)
 > ![dev to create](https://github.com/user-attachments/assets/57ad1f57-f690-469e-b813-bc6799b42c1a)
 > ![AWS create](https://github.com/user-attachments/assets/73170037-4d27-4ec9-ace7-52cb63c24b10)
 
