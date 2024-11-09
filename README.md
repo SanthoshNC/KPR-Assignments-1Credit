@@ -73,7 +73,7 @@
 ***
 
 #### #7 [Github Actions] Create a Github Actions pipeline to deploy the app in AWS (S3 + CloudFront)
-> ![Screenshot 2024-11-09 133816](https://github.com/user-attachments/assets/f51600de-f9ad-40eb-94f3-47aa61ad69c5)
+> 
 
 
 ***
