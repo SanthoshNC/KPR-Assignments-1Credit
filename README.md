@@ -105,6 +105,9 @@
 #### #7 [GitHub Actions] Create a GitHub Actions pipeline to deploy the app on AWS (S3 + CloudFront)
 
 > **Add your answer here!**
+![image](https://github.com/user-attachments/assets/42d41810-44db-4405-88bd-3cae902bdd2f)
+> ![image](https://github.com/user-attachments/assets/db57458e-ccb4-4aa4-bc76-35d36291ada3)
+
 
 ***
 
