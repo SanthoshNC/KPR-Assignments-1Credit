@@ -40,7 +40,8 @@
 	- AWS Free Tier Account (with Personal Mail ID)
 	- Dev.to (with Personal Mail ID)
 > <img width="959" alt="image" src="https://github.com/user-attachments/assets/cf368ec1-027a-4721-ae39-e0bfbc47faa5">
->![image](https://github.com/user-attachments/assets/fca0a849-c2ba-49cf-a2fd-64f59f658b2c)
+![image](https://github.com/user-attachments/assets/795b02b8-cb8e-45a7-9aea-2262e0cd00df)
+
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/1d794c72-c2b1-4601-a79d-22ec85223ec7">
 
