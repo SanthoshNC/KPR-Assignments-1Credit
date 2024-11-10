@@ -60,6 +60,7 @@ http://localhost:3000/
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
 > Add your answer here!
+> .github/workflows
 
 ***
 
