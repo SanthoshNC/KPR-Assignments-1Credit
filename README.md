@@ -6,14 +6,14 @@
 | Status         | Questions     | 
 |----------------|---------------|
 | <ul><li>- [x] </li></ul> | Install the below mentioned tools/tech/framwork & add the screenshot |
-| <ul><li>- [ ] </li></ul> | [Accounts] Create the accounts and add the screenshot here |
-| <ul><li>- [ ] </li></ul> | [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo |
-| <ul><li>- [ ] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages |
+| <ul><li>- [x] </li></ul> | [Accounts] Create the accounts and add the screenshot here |
+| <ul><li>- [x] </li></ul> | [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo |
+| <ul><li>- [x] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages |
 | <ul><li>- [ ] </li></ul> | [AWS] Create the below mentioned AWS services |
 | <ul><li>- [ ] </li></ul> | [AWS] Deploy the app in S3 and access via CloudFront in manual way  |
 | <ul><li>- [ ] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in AWS (S3 + CloudFront)  |
-| <ul><li>- [ ] </li></ul> | [Impromptu Learning] Write a Dev.to post for the given tool  |
-| <ul><li>- [ ] </li></ul> | [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app  |
+| <ul><li>- [x] </li></ul> | [Impromptu Learning] Write a Dev.to post for the given tool  |
+| <ul><li>- [x] </li></ul> | [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app  |
 
 ***
 
@@ -30,7 +30,9 @@
 	- NPM 
 	- Git
 	- VSCode
-> Add your answer here!
+> Screenshot
+> ![Versions](https://github.com/user-attachments/assets/3cf08bba-a215-4a47-8c70-8fc233d28ef3)
+
 
 ***
 
@@ -38,17 +40,33 @@
 	- GitHub (with Personal Mail ID)
 	- AWS Free Tier Account (with Personal Mail ID)
 	- Dev.to (with Personal Mail ID)
-> Add your answer here!
+> Github
+> ![github](https://github.com/user-attachments/assets/33043a69-40a5-45a7-ba8c-b36738ae233a)
+> AWS
+> ![aws](https://github.com/user-attachments/assets/ae59d959-17b8-4533-a8ee-660a0d75d8ec)
+> Dev.to
+> ![dev](https://github.com/user-attachments/assets/75aadb7a-9175-42e6-b000-861514d2a2b6)
+
+
+
 
 ***
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
-> Add your answer here!
+> Localmachine deploy
+> ![image](https://github.com/user-attachments/assets/ee61a1e9-d799-4dcc-91d3-3d7d5be736e5)
+
+
 
 ***
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
-> Add your answer here!
+> Pipeline Page
+> ![github actions](https://github.com/user-attachments/assets/fb658918-c998-4210-b596-d245e01dd36c)
+> Github Pages Deployment
+> ![App deploy](https://github.com/user-attachments/assets/36bebf4f-e693-4928-9a17-10943137ad0f)
+
+
 
 ***
 
@@ -80,7 +98,7 @@
 		Parent Company of that tool
 		Whether it is open source or paid one
 		Icon / Logo
-> Add your answer here!
+> Link: https://dev.to/sri_shyamala_1a3feb8da14f/devops-tool-splunk-1m90
 
 ***
 
@@ -90,6 +108,9 @@
 	- Github Pages URL
  	- Github Actions for S3
  	- AWS CloudFront URL
-> Add your answer here!
+> Repo url: https://github.com/srishyamala2112/developer-cards-react-app.git
+> pages url: https://srishyamala2112.github.io/developer-cards-react-app/
+> ![Homework](https://github.com/user-attachments/assets/ddf7b7ed-bed2-47de-aad9-f659f78320d5)
+
 
 ***
