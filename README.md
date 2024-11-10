@@ -99,7 +99,7 @@ http://localhost:3000/
 
 #### #9 [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app
 	- Github Repo URL
- Pramikaofficial/22cb041-Pramika-T
+ https://github.com/Pramikaofficial/22cb041-Pramika-T
 	- Github Actions Pipeline for Github Pages
 	- Github Pages URL
  https://github.com/Pramikaofficial/22cb041-Pramika-T/tree/main/.github/workflows
