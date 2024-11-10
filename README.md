@@ -73,9 +73,14 @@
   http://aravind-demo.s3-website.eu-north-1.amazonaws.com
 
 #### #7 [Github Actions] Create a Github Actions pipeline to deploy the app in AWS (S3 + CloudFront)
-> Add your answer here!
+>   Github Actions Pipeline:
+  ![pipe](assignment/actionspipe.png)
+    Deployed on S3:
+  ![s3](assignment/deploy-s3.png)
+    CloudFront:
+  ![cf](assignment/cf.png)
 
-***
+  URL:http://aravind-demo.s3-website.eu-north-1.amazonaws.com
 
 #### #8 [Impromptu Learning] Write a Dev.to post for the given tool:
 	- DevSecOps Periodic Table
@@ -107,8 +112,13 @@ https://github.com/aravind26csbs/developer-cards-react-app.git
 
    ![pg](assignment/deploy-pg.png)
     
-    Github Page
+    Page
    ![pg](assignment/cloud.png)
 
 	Github Actions for S3 URL:
-   ![s3](assignment/awss3.png)
+   ![s3](assignment/actionspipe.png)
+
+  AWS cloudFront:
+   ![cf](assignment/cf.png)
+
+   The above works are done by AravindaKumar -3rd year B.TECH CSBS.....
