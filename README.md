@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/9cd39f3a-83dc-4591-8435-6b9ccd214a67)### 1 Credit Assignments
 
 > [!NOTE]
 > Pls edit this table while submitting the assignments
