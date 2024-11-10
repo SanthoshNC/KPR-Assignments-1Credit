@@ -98,4 +98,17 @@
 	- Github Pages URL
  	- Github Actions for S3
  	- AWS CloudFront URL
-> Add your answer here!
+
+> Github URL:
+https://github.com/aravind26csbs/developer-cards-react-app.git
+   
+   Github Actions Pipeline:
+   ![hello](assignment/hello-d.png)
+
+   ![pg](assignment/deploy-pg.png)
+    
+    Github Page
+   ![pg](assignment/cloud.png)
+
+	Github Actions for S3 URL:
+   ![s3](assignment/awss3.png)
