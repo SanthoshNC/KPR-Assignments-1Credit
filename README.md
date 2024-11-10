@@ -60,7 +60,7 @@ http://localhost:3000/
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
 > Add your answer here!
-> .github/workflows
+> https://github.com/Pramikaofficial/22cb041-Pramika-T/tree/21c657d0cfc150307951cacd8c85fcb4d0aa22f9/.github/workflows
 
 ***
 
