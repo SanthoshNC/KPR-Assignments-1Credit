@@ -49,7 +49,7 @@
 ***
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
->https://github.com/pranneeth-1511/22cb043-pranneeth.git
+>github repo url: https://github.com/pranneeth-1511/22cb043-pranneeth.git
 >![Create React](https://github.com/user-attachments/assets/41657659-e02c-4775-b422-0757de43b8a2)
 > ![App running](https://github.com/user-attachments/assets/15004cfe-2733-4162-b60c-6d9730da7b51)
 
@@ -103,8 +103,8 @@
 	- Github Pages URL
  	- Github Actions for S3
  	- AWS CloudFront URL
->https://github.com/pranneeth-1511/developer-cards-react-app.git
->https://pranneeth-1511.github.io/developer-cards-react-app/
+>Github repo url: https://github.com/pranneeth-1511/developer-cards-react-app.git
+>github page url: https://pranneeth-1511.github.io/developer-cards-react-app/
 > ![image](https://github.com/user-attachments/assets/f2c0ee33-7368-4aaa-aeb0-39b76f82355f)
 
 
