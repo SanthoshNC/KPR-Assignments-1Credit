@@ -142,5 +142,8 @@
 - AWS CloudFront URL
 
 > **Add your answer here!**
+> github repo url-https://github.com/Kishor-d7/22cb028-kishor-2
+> deployed screenshot:![image](https://github.com/user-attachments/assets/70328dba-7e40-4e05-b785-c378e7171f3d)
+> github pages url: https://kishor-d7.github.io/22cb028-kishor-2/
 
 ---
