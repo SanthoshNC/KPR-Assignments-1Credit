@@ -55,9 +55,9 @@
 ***
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/b2662368-b976-4a03-ae3e-abd9caa3bfa6)
+https://chitrikaa.github.io/22cb012---Chitrika/
 
-***
 
 #### #5 [AWS] Create the below mentioned AWS services
 	- IAM
@@ -98,10 +98,12 @@
 
 #### #9 [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app
 	- Github Repo URL
+ https://github.com/Chitrikaa/developer-cards-react-app/tree/22cb012/chitrika
 	- Github Actions Pipeline for Github Pages
+ ![image](https://github.com/user-attachments/assets/507d4161-47b3-4f0f-8a3c-dc940c1164a1)
+
 	- Github Pages URL
+ https://chitrikaa.github.io/developer-cards-react-app/
  	- Github Actions for S3
  	- AWS CloudFront URL
-> Add your answer here!
 
-***
