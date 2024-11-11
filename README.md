@@ -30,7 +30,8 @@
 	- NPM 
 	- Git
 	- VSCode
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/fb6dac52-dd9a-4162-b79e-a28dd62e50c2)
+!
 
 ***
 
@@ -38,17 +39,27 @@
 	- GitHub (with Personal Mail ID)
 	- AWS Free Tier Account (with Personal Mail ID)
 	- Dev.to (with Personal Mail ID)
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/5f5a145c-3293-458b-8b23-b94ddb744459)
+> ![image](https://github.com/user-attachments/assets/84aab19e-d5a0-446d-8376-d86705425e03)
+> ![image](https://github.com/user-attachments/assets/fb2a8f9d-a2d8-446a-b946-f5e631fc37dc)
+
+
 
 ***
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
-> Add your answer here!
+> Screenshot
+> ![image](https://github.com/user-attachments/assets/1cccdc0a-c973-4bcd-96ee-4f11d0c0593a)
+
 
 ***
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
-> Add your answer here!
+> screenshot
+> ![image](https://github.com/user-attachments/assets/4b89ca4d-3b9a-46fd-9a93-c0fab7d060eb)
+> ![image](https://github.com/user-attachments/assets/2f8726a1-1a77-4f58-9583-c85dc9701187)
+
+
 
 ***
 
@@ -80,7 +91,10 @@
 		Parent Company of that tool
 		Whether it is open source or paid one
 		Icon / Logo
-> Add your answer here!
+> Websit URL: https://dev.to/balaji_giri_2003/backstage-15mo
+> Screenshot:
+> ![image](https://github.com/user-attachments/assets/d7b3c0ad-fb3f-4bbd-afa4-826c1103ca47)
+
 
 ***
 
@@ -90,6 +104,11 @@
 	- Github Pages URL
  	- Github Actions for S3
  	- AWS CloudFront URL
-> Add your answer here!
+> Github pages URL: https://balaji952.github.io/developer-cards-react-app/
+> github URL: https://github.com/balaji952/developer-cards-react-app.git
+>![image](https://github.com/user-attachments/assets/e38c6ce4-1101-4480-b6d5-37554cec27c0)
+> ![image](https://github.com/user-attachments/assets/1eee26ed-28d6-4e07-bb55-009179df2dee)
+
+
 
 ***
