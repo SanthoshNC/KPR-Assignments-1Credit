@@ -30,7 +30,9 @@
 	- NPM 
 	- Git
 	- VSCode
-> Add your answer here!
+>screenshot
+>![image](https://github.com/user-attachments/assets/f5be5e09-e1c5-4c67-90c2-f915d10195e9)
+
 
 ***
 
@@ -38,17 +40,31 @@
 	- GitHub (with Personal Mail ID)
 	- AWS Free Tier Account (with Personal Mail ID)
 	- Dev.to (with Personal Mail ID)
-> Add your answer here!
+>screenshot
+>![image](https://github.com/user-attachments/assets/560ad5ef-ed9c-468c-a822-dbba10042d98)
+>![image](https://github.com/user-attachments/assets/d001c96e-44cc-4c0d-a406-e81179a7e52f)
+
+
 
 ***
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
-> Add your answer here!
+>screenshot
+>https://github.com/mohamedfahimyousuf/developer-cards-react-app
+>![image](https://github.com/user-attachments/assets/24ecd983-9999-4d3a-86d8-4217c8e14067)
+>![image](https://github.com/user-attachments/assets/49b22608-8a3b-44be-a2b0-2f3281df5124)
+
+
 
 ***
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
-> Add your answer here!
+>https://github.com/mohamedfahimyousuf/developer-cards-react-app/actions
+>screenshot
+>![image](https://github.com/user-attachments/assets/4e83e0c8-468e-4a46-9f6b-3cf6ac8f9c4e)
+>![image](https://github.com/user-attachments/assets/0ee4759d-7fa8-44ec-abc9-af5a2eb39523)
+
+
 
 ***
 
@@ -57,11 +73,19 @@
 	- S3
 	- CloudFront
 > Add your answer here!
+IAM
+>![image](https://github.com/user-attachments/assets/ce022b83-bc48-4ce1-9f49-5eefc9f98946)
+
+> S3:
+> ![image](https://github.com/user-attachments/assets/efeb9a28-9386-46ba-9209-0c6039c1f191)
+
+
 
 ***
 
 #### #6 [AWS] Deploy the app in S3 and access via CloudFront in manual way
 > Add your answer here!
+> 
 
 ***
 
@@ -80,7 +104,8 @@
 		Parent Company of that tool
 		Whether it is open source or paid one
 		Icon / Logo
-> Add your answer here!
+>https://dev.to/mohamed_fahim_m/hi-let-me-tell-you-about-mattermost-56ag
+>
 
 ***
 
@@ -90,6 +115,9 @@
 	- Github Pages URL
  	- Github Actions for S3
  	- AWS CloudFront URL
-> Add your answer here!
+>screenshot
+>![image](https://github.com/user-attachments/assets/566d6f08-6c5e-461e-8098-989ce89b3dff)
+>https://mohamedfahimyousuf.github.io/developer-cards-react-app/
+
 
 ***
