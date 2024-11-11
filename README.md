@@ -30,7 +30,8 @@
 	- NPM 
 	- Git
 	- VSCode
-> Add your answer here!
+> ![Screenshot (55)](https://github.com/user-attachments/assets/2d75d357-dfe7-45cc-81e5-26677557a1ae)
+
 
 ***
 
@@ -38,25 +39,36 @@
 	- GitHub (with Personal Mail ID)
 	- AWS Free Tier Account (with Personal Mail ID)
 	- Dev.to (with Personal Mail ID)
-> Add your answer here!
+> github - ![image](https://github.com/user-attachments/assets/1843e985-1316-47f6-a769-c51682e54ead)
+> aws - ![image](https://github.com/user-attachments/assets/e95d2d64-15aa-4bc6-bbfc-3e350f71673f)
+> dev.to - ![Screenshot (54)](https://github.com/user-attachments/assets/c24cff06-5516-46a8-80b6-07fea10f9fea)
+
+
 
 ***
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/8882c3a0-e15f-4696-9bf3-8eb9ee9fad70)
+> URL of the repo - https://github.com/Chitrikaa/22cb012---Chitrika
+
 
 ***
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/b2662368-b976-4a03-ae3e-abd9caa3bfa6)
+https://chitrikaa.github.io/22cb012---Chitrika/
 
-***
 
 #### #5 [AWS] Create the below mentioned AWS services
 	- IAM
 	- S3
 	- CloudFront
-> Add your answer here!
+> S3- ![image](https://github.com/user-attachments/assets/57bfae8e-c0fd-4b37-9ddb-ba24d93b1f2c)
+> IAM - ![image](https://github.com/user-attachments/assets/222d1cba-4821-45a5-9d51-e4192bb63da9)
+> CloudFront - ![image](https://github.com/user-attachments/assets/4522df22-deb5-4fe3-b9b5-c452e8f324a7)
+
+
+
 
 ***
 
@@ -80,16 +92,18 @@
 		Parent Company of that tool
 		Whether it is open source or paid one
 		Icon / Logo
-> Add your answer here!
+> https://dev.to/chitrika/mastering-infrastructure-automation-with-chef-a-comprehensive-guide-for-devops-5ff9
 
 ***
 
 #### #9 [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app
 	- Github Repo URL
+ https://github.com/Chitrikaa/developer-cards-react-app/tree/22cb012/chitrika
 	- Github Actions Pipeline for Github Pages
+ ![image](https://github.com/user-attachments/assets/507d4161-47b3-4f0f-8a3c-dc940c1164a1)
+
 	- Github Pages URL
+ https://chitrikaa.github.io/developer-cards-react-app/
  	- Github Actions for S3
  	- AWS CloudFront URL
-> Add your answer here!
 
-***
