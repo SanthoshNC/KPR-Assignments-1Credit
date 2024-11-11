@@ -99,8 +99,17 @@ http://localhost:3000/
 
 #### #9 [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app
 	- Github Repo URL
+https://github.com/Pramikaofficial/developer-cards-react-app
+![image](https://github.com/user-attachments/assets/f6422339-2e79-4ce3-8f63-40c73ff59eb8)
+
 	- Github Actions Pipeline for Github Pages
+ https://github.com/Pramikaofficial/developer-cards-react-app/actions
+ ![image](https://github.com/user-attachments/assets/02419229-d43a-4f6e-a94d-d3da9a4b3505)
+
 	- Github Pages URL
+ https://pramikaofficial.github.io/developer-cards-react-app/
+ ![image](https://github.com/user-attachments/assets/6c35ce21-6871-4829-a43a-45f4bf841d49)
+
  	- Github Actions for S3
  	- AWS CloudFront URL
 > Add your answer here!
