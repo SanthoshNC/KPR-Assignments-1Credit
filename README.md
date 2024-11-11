@@ -6,14 +6,14 @@
 | Status         | Questions     | 
 |----------------|---------------|
 | <ul><li>- [x] </li></ul> | Install the below mentioned tools/tech/framwork & add the screenshot |
-| <ul><li>- [ ] </li></ul> | [Accounts] Create the accounts and add the screenshot here |
-| <ul><li>- [ ] </li></ul> | [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo |
-| <ul><li>- [ ] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages |
+| <ul><li>- [x] </li></ul> | [Accounts] Create the accounts and add the screenshot here |
+| <ul><li>- [x] </li></ul> | [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo |
+| <ul><li>- [x] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages |
 | <ul><li>- [ ] </li></ul> | [AWS] Create the below mentioned AWS services |
 | <ul><li>- [ ] </li></ul> | [AWS] Deploy the app in S3 and access via CloudFront in manual way  |
 | <ul><li>- [ ] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in AWS (S3 + CloudFront)  |
-| <ul><li>- [ ] </li></ul> | [Impromptu Learning] Write a Dev.to post for the given tool  |
-| <ul><li>- [ ] </li></ul> | [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app  |
+| <ul><li>- [x] </li></ul> | [Impromptu Learning] Write a Dev.to post for the given tool  |
+| <ul><li>- [x] </li></ul> | [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app  |
 
 ***
 
@@ -30,6 +30,8 @@
 	- NPM 
 	- Git
 	- VSCode
+>![image](https://github.com/user-attachments/assets/6dc6f8d3-366b-4959-a0cb-4174fa57bdb9)
+
 > Add your answer here!
 
 ***
@@ -38,17 +40,25 @@
 	- GitHub (with Personal Mail ID)
 	- AWS Free Tier Account (with Personal Mail ID)
 	- Dev.to (with Personal Mail ID)
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/52734a74-462c-4d7f-8b2c-1e7c5408d3d5)
+> ![image](https://github.com/user-attachments/assets/d635ec11-c0a9-4683-9f42-2bb82433408d)
+> ![image](https://github.com/user-attachments/assets/08f90d06-653a-4cc4-8ace-924ad12b19e3)
+
+
+Add your answer here!
 
 ***
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
 > Add your answer here!
+![image](https://github.com/user-attachments/assets/a5c14904-8439-40bc-a54e-5a65caabb471)
 
 ***
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
-> Add your answer here!
+>![image](https://github.com/user-attachments/assets/fab9d6a1-3d34-48d3-8a40-d02966ea0c1f)
+> ![image](https://github.com/user-attachments/assets/f5cf9430-ed7b-454f-b946-81320590f7f1)
+
 
 ***
 
@@ -80,7 +90,8 @@
 		Parent Company of that tool
 		Whether it is open source or paid one
 		Icon / Logo
-> Add your answer here!
+> post url: https://dev.to/vijayaragavan_97f394901d9/enhancing-application-security-in-devops-a-comprehensive-guide-to-veracode-2hib
+> 
 
 ***
 
@@ -90,6 +101,10 @@
 	- Github Pages URL
  	- Github Actions for S3
  	- AWS CloudFront URL
-> Add your answer here!
+>Github Pages URL: https://vijayaragavaan2065.github.io/developer-cards-react-app/
+>github repo URL: https://github.com/vijayaragavaan2065/developer-cards-react-app.git
+>Screenshot
+>![Uploading image.png…]()
+
 
 ***
