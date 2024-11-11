@@ -21,6 +21,8 @@
 
 > [!WARNING]
 > Pls submit the correct screenshots
+> ![image](https://github.com/user-attachments/assets/54cd0395-e139-4175-bb20-d9bfd5cebb91)
+
 
 > [!CAUTION]
 > Pls don't copy from others. Marks will be reduced for both students
@@ -30,7 +32,8 @@
 	- NPM 
 	- Git
 	- VSCode
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/19b061de-a906-4009-a72b-ba528359c560)
+
 
 ***
 
@@ -38,12 +41,19 @@
 	- GitHub (with Personal Mail ID)
 	- AWS Free Tier Account (with Personal Mail ID)
 	- Dev.to (with Personal Mail ID)
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/ebc366de-1680-4c60-987f-3241e089a43a)
+> ![image](https://github.com/user-attachments/assets/80210a50-80c0-4693-95a6-ee97c17e7c0d)
+> ![image](https://github.com/user-attachments/assets/06b4d54b-bf8e-44f9-9071-f886340e7abb)
+
+
+
 
 ***
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
-> Add your answer here!
+> ![WhatsApp Image 2024-11-11 at 15 44 52_8ceb9107](https://github.com/user-attachments/assets/e8c62397-2ca0-44f6-befa-64a586658e44)
+> https://karthick-k08.github.io/22cb021-karthick/
+
 
 ***
 
@@ -80,8 +90,7 @@
 		Parent Company of that tool
 		Whether it is open source or paid one
 		Icon / Logo
-> Add your answer here!
-
+> https://dev.to/karthick_k_1b6a22570d5089/kibana-5elo
 ***
 
 #### #9 [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app
@@ -90,6 +99,12 @@
 	- Github Pages URL
  	- Github Actions for S3
  	- AWS CloudFront URL
-> Add your answer here!
+> https://github.com/Karthick-K08/developer-cards-react-app.git
+> https://karthick-k08.github.io/developer-cards-react-app/
+> ![image](https://github.com/user-attachments/assets/aa560846-6d8c-4c6a-a33d-8440c29af52d)
+> ![image](https://github.com/user-attachments/assets/83740983-058d-402b-825f-b2ebccb45480)
+
+
+
 
 ***
