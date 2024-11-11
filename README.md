@@ -31,24 +31,36 @@
 	- Git
 	- VSCode
 > Add your answer here!
+> ![Screenshot 2024-11-08 083609](https://github.com/user-attachments/assets/583cede9-8513-413e-bdc5-3014f4ebcc27)
+
 
 ***
 
 #### #2 [Accounts] Create the accounts and add the screenshot here
 	- GitHub (with Personal Mail ID)
+ ![Screenshot 2024-11-08 083952](https://github.com/user-attachments/assets/89fedd91-6cef-4e67-b177-4081fad670ba)
+
 	- AWS Free Tier Account (with Personal Mail ID)
+ ![Screenshot 2024-11-08 085012](https://github.com/user-attachments/assets/f5e904df-ec5d-4031-8cdc-7452635a340f)
+
 	- Dev.to (with Personal Mail ID)
+ ![Screenshot 2024-11-08 085048](https://github.com/user-attachments/assets/3f29523c-00d1-40b7-9e04-0370a2fe194e)
+
 > Add your answer here!
 
 ***
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
+![Screenshot 2024-11-08 085310](https://github.com/user-attachments/assets/1c5dc328-5eca-4498-9029-9d8588141fc1)
+http://localhost:3000/
+
 > Add your answer here!
 
 ***
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
 > Add your answer here!
+> https://github.com/Pramikaofficial/22cb041-Pramika-T/tree/21c657d0cfc150307951cacd8c85fcb4d0aa22f9/.github/workflows
 
 ***
 
@@ -81,13 +93,23 @@
 		Whether it is open source or paid one
 		Icon / Logo
 > Add your answer here!
+> https://dev.to/pramika_official/packer-tool-in-devops-2928
 
 ***
 
 #### #9 [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app
 	- Github Repo URL
+https://github.com/Pramikaofficial/developer-cards-react-app
+![image](https://github.com/user-attachments/assets/f6422339-2e79-4ce3-8f63-40c73ff59eb8)
+
 	- Github Actions Pipeline for Github Pages
+ https://github.com/Pramikaofficial/developer-cards-react-app/actions
+ ![image](https://github.com/user-attachments/assets/02419229-d43a-4f6e-a94d-d3da9a4b3505)
+
 	- Github Pages URL
+ https://pramikaofficial.github.io/developer-cards-react-app/
+ ![image](https://github.com/user-attachments/assets/6c35ce21-6871-4829-a43a-45f4bf841d49)
+
  	- Github Actions for S3
  	- AWS CloudFront URL
 > Add your answer here!
