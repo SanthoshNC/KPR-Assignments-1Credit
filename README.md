@@ -88,8 +88,7 @@
 		Parent Company of that tool
 		Whether it is open source or paid one
 		Icon / Logo
-> Add your answer here!
-
+> https://dev.to/karthick_k_1b6a22570d5089/kibana-5elo
 ***
 
 #### #9 [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app
