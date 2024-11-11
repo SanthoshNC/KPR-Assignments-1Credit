@@ -52,6 +52,7 @@
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
 > ![WhatsApp Image 2024-11-11 at 15 44 52_8ceb9107](https://github.com/user-attachments/assets/e8c62397-2ca0-44f6-befa-64a586658e44)
+> https://karthick-k08.github.io/22cb021-karthick/
 
 
 ***
@@ -100,7 +101,10 @@
  	- AWS CloudFront URL
 > https://github.com/Karthick-K08/developer-cards-react-app.git
 > https://karthick-k08.github.io/developer-cards-react-app/
-> ![Uploading image.png…]()
+> ![image](https://github.com/user-attachments/assets/aa560846-6d8c-4c6a-a33d-8440c29af52d)
+> ![image](https://github.com/user-attachments/assets/83740983-058d-402b-825f-b2ebccb45480)
+
+
 
 
 ***
