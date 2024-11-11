@@ -56,7 +56,11 @@
 ***
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
-> Add your answer here!
+> .yml URL : https://github.com/Sarmithaa/22cb050-Sarmithaa-PL/blob/main/.github/workflows/gh-deployment.yml
+> ![image](https://github.com/user-attachments/assets/c0f8bdf7-f727-4e3d-96a0-da08844a6c4b)
+> 
+
+> 
 
 ***
 
@@ -94,8 +98,18 @@
 
 #### #9 [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app
 	- Github Repo URL
+ https://github.com/Sarmithaa/developer-cards-react-app/tree/22cb050-sarmithaapl
+![image](https://github.com/user-attachments/assets/33ff2294-5243-47cf-b8fe-e29c2dfbc2e6)
+
 	- Github Actions Pipeline for Github Pages
+ https://github.com/Sarmithaa/developer-cards-react-app/tree/22cb050-sarmithaapl/.github/workflows
+https://github.com/Sarmithaa/developer-cards-react-app/actions
+![image](https://github.com/user-attachments/assets/b6e0aca9-2bc0-42a5-aae3-22d29f37fdaa)
+
 	- Github Pages URL
+https://sarmithaa.github.io/developer-cards-react-app/
+![image](https://github.com/user-attachments/assets/c7f1a066-a2bf-455d-a79d-61905ef8f935)
+
  	- Github Actions for S3
  	- AWS CloudFront URL
 > Add your answer here!
