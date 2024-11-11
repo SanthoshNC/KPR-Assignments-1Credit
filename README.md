@@ -100,6 +100,7 @@
 		Icon / Logo
 >screenshot
 >![dev to output](https://github.com/user-attachments/assets/bd2d34aa-905c-48d5-847e-d02854c18ca6)
+>dev.to post link:https://dev.to/manikandan_subramanian/microsoft-teams-the-hidden-powerhouse-for-devops-collaboration-1l1n
 
 
 ***
