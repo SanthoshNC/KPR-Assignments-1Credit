@@ -30,7 +30,9 @@
 	- NPM 
 	- Git
 	- VSCode
->![image](https://github.com/user-attachments/assets/6dc6f8d3-366b-4959-a0cb-4174fa57bdb9)
+>![image](https://github.com/user-attachments/assets/e79f8eb3-5f1b-48d6-94a6-f58ed22a010c)
+
+>
 
 > Add your answer here!
 
@@ -42,7 +44,8 @@
 	- Dev.to (with Personal Mail ID)
 > ![image](https://github.com/user-attachments/assets/52734a74-462c-4d7f-8b2c-1e7c5408d3d5)
 > ![image](https://github.com/user-attachments/assets/d635ec11-c0a9-4683-9f42-2bb82433408d)
-> ![image](https://github.com/user-attachments/assets/08f90d06-653a-4cc4-8ace-924ad12b19e3)
+> ![image](https://github.com/user-attachments/assets/c9b117b5-d46d-497d-8084-bab67ef6eab3)
+
 
 
 Add your answer here!
@@ -91,7 +94,8 @@ Add your answer here!
 		Whether it is open source or paid one
 		Icon / Logo
 > post url: https://dev.to/vijayaragavan_97f394901d9/enhancing-application-security-in-devops-a-comprehensive-guide-to-veracode-2hib
-> 
+> screenshot:![image](https://github.com/user-attachments/assets/e7584dd0-ae5f-47ca-bd6e-c1138d1fdf51)
+
 
 ***
 
@@ -104,7 +108,8 @@ Add your answer here!
 >Github Pages URL: https://vijayaragavaan2065.github.io/developer-cards-react-app/
 >github repo URL: https://github.com/vijayaragavaan2065/developer-cards-react-app.git
 >Screenshot
->![Uploading image.png…]()
+>![image](https://github.com/user-attachments/assets/f1165df6-aaf1-4d47-b465-c6513078e7cb)
+
 
 
 ***
