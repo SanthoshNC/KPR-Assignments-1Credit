@@ -121,6 +121,6 @@ https://github.com/aravind26csbs/developer-cards-react-app.git
   AWS cloudFront:
    ![cf](assignment/cf.png)
   URL:
-  https://github.com/aravind26csbs/developer-cards-react-app.git
+  https://aravind26csbs.github.io/developer-cards-react-app/
 
  The above works were completed by Aravindakumar K, a 3rd-year B.Tech CSBS Student....
