@@ -5,7 +5,7 @@
 
 | Status         | Questions     | 
 |----------------|---------------|
-| <ul><li>- [x] </li></ul> | Install the below mentioned tools/tech/framwork & add the screenshot |
+| <ul><li>- [ ] </li></ul> | Install the below mentioned tools/tech/framwork & add the screenshot |
 | <ul><li>- [ ] </li></ul> | [Accounts] Create the accounts and add the screenshot here |
 | <ul><li>- [ ] </li></ul> | [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo |
 | <ul><li>- [ ] </li></ul> | [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages |
@@ -30,45 +30,57 @@
 	- NPM 
 	- Git
 	- VSCode
-> Add your answer here!
-
-***
+> Tools 
+  ![Tools](assignment/tools.png)
 
 #### #2 [Accounts] Create the accounts and add the screenshot here
 	- GitHub (with Personal Mail ID)
 	- AWS Free Tier Account (with Personal Mail ID)
 	- Dev.to (with Personal Mail ID)
-> Add your answer here!
-
-***
+> Github Account 
+  ![git](assignment/github.png)
+  AWS Account 
+  ![Aws](assignment/aws.png)
+  Dev.to Account
+  ![Dev.to](assignment/dev.to.png)
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
-> Add your answer here!
+>React App command![app](assignment/reactappc.png)
 
-***
+ React App ![pic](assignment/reactappi.png)
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
-> Add your answer here!
-
-***
+> code
+  ![hello](assignment/hellow.png)
+  code
+  ![deploy](assignment/deploy.png)
+  Deployed
+  ![image](assignment/domain.png)
 
 #### #5 [AWS] Create the below mentioned AWS services
 	- IAM
 	- S3
 	- CloudFront
-> Add your answer here!
-
-***
+> Github-Iam
+  ![iam](assignment/awsiam.png)
+  Github-S3
+  ![s3](assignment/awss3.png)
 
 #### #6 [AWS] Deploy the app in S3 and access via CloudFront in manual way
-> Add your answer here!
-
-***
+> Deployed using AWS S3
+  ![s3](assignment/deploy-s3.png)
+  S3-URL
+  http://aravind-demo.s3-website.eu-north-1.amazonaws.com
 
 #### #7 [Github Actions] Create a Github Actions pipeline to deploy the app in AWS (S3 + CloudFront)
-> Add your answer here!
+>   Github Actions Pipeline:
+  ![pipe](assignment/actionspipe.png)
+    Deployed on S3:
+  ![s3](assignment/deploy-s3.png)
+    CloudFront:
+  ![cf](assignment/cf.png)
 
-***
+  URL:http://aravind-demo.s3-website.eu-north-1.amazonaws.com
 
 #### #8 [Impromptu Learning] Write a Dev.to post for the given tool:
 	- DevSecOps Periodic Table
@@ -80,9 +92,10 @@
 		Parent Company of that tool
 		Whether it is open source or paid one
 		Icon / Logo
-> Add your answer here!
-
-***
+> Overview of the AWS Lambda Tool
+  ![awslambda](assignment/dev.to.png)
+  Article-URL
+  https://dev.to/aravind_04/aws-lambda-an-overview-of-serverless-computing-for-devops-and-devsecops-23nb
 
 #### #9 [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app
 	- Github Repo URL
@@ -90,6 +103,18 @@
 	- Github Pages URL
  	- Github Actions for S3
  	- AWS CloudFront URL
-> Add your answer here!
 
-***
+> Github URL:
+https://github.com/aravind26csbs/developer-cards-react-app.git
+   
+   Github Actions Pipeline:
+  ![image](https://github.com/user-attachments/assets/4ad2ea78-686a-4b96-b5b6-eaa580f98d4f)
+  
+![image](https://github.com/user-attachments/assets/d64d3f83-6494-4844-ba91-eda2063c41b8)
+
+ URL: https://aravind26csbs.github.io/developer-cards-react-app/
+
+
+  
+
+ The above works were completed by Aravindakumar K, a 3rd-year B.Tech CSBS Student....
