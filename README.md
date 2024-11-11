@@ -21,6 +21,8 @@
 
 > [!WARNING]
 > Pls submit the correct screenshots
+> ![image](https://github.com/user-attachments/assets/54cd0395-e139-4175-bb20-d9bfd5cebb91)
+
 
 > [!CAUTION]
 > Pls don't copy from others. Marks will be reduced for both students
@@ -30,7 +32,8 @@
 	- NPM 
 	- Git
 	- VSCode
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/19b061de-a906-4009-a72b-ba528359c560)
+
 
 ***
 
@@ -38,7 +41,12 @@
 	- GitHub (with Personal Mail ID)
 	- AWS Free Tier Account (with Personal Mail ID)
 	- Dev.to (with Personal Mail ID)
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/ebc366de-1680-4c60-987f-3241e089a43a)
+> ![image](https://github.com/user-attachments/assets/80210a50-80c0-4693-95a6-ee97c17e7c0d)
+> ![Uploading image.png…]()
+
+
+
 
 ***
 
