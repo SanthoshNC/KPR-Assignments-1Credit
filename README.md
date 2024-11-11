@@ -112,15 +112,11 @@ https://github.com/aravind26csbs/developer-cards-react-app.git
 
    ![pg](assignment/deploy-pg.png)
     
-    Page
-   ![pg](assignment/cloud.png)
+![image](https://github.com/user-attachments/assets/d64d3f83-6494-4844-ba91-eda2063c41b8)
 
-	Github Actions for S3 URL:
-   ![s3](assignment/actionspipe.png)
+ URL: https://aravind26csbs.github.io/developer-cards-react-app/
 
-  AWS cloudFront:
-   ![cf](assignment/cf.png)
-  URL:
-  https://aravind26csbs.github.io/developer-cards-react-app/
+
+  
 
  The above works were completed by Aravindakumar K, a 3rd-year B.Tech CSBS Student....
