@@ -30,25 +30,30 @@
 	- NPM 
 	- Git
 	- VSCode
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/d6878441-d9db-4016-b8ce-d4e5b5e70787)
 
-***
 
 #### #2 [Accounts] Create the accounts and add the screenshot here
 	- GitHub (with Personal Mail ID)
+ ![image](https://github.com/user-attachments/assets/71b811f3-47fd-4482-aa90-e137e8886915)
+
 	- AWS Free Tier Account (with Personal Mail ID)
+ ![image](https://github.com/user-attachments/assets/cca19cf1-c9e7-4733-af30-a5d368c3be57)
+
 	- Dev.to (with Personal Mail ID)
-> Add your answer here!
+ ![image](https://github.com/user-attachments/assets/e24590af-0b02-497a-a637-5ae2f9e8ca37)
+
 
 ***
 
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/9341f0c2-1928-4a91-a49d-5d29cfd33367)
+https://github.com/arvindak194/22CB007-ARVIND
 
 ***
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/40f84b6f-b143-4cbe-bd16-86b22f7c66a9)
 
 ***
 
@@ -80,16 +85,21 @@
 		Parent Company of that tool
 		Whether it is open source or paid one
 		Icon / Logo
-> Add your answer here!
+https://dev.to/_arviiindd/aqua-security-17mk
 
 ***
 
 #### #9 [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app
 	- Github Repo URL
+ https://github.com/arvindak194/developer-cards-react-app
+ 
 	- Github Actions Pipeline for Github Pages
+ ![image](https://github.com/user-attachments/assets/e5b9daa0-8ccd-48c7-a3e1-1f28646b21aa)
+
 	- Github Pages URL
+ https://arvindak194.github.io/developer-cards-react-app/
+ 
  	- Github Actions for S3
  	- AWS CloudFront URL
-> Add your answer here!
 
 ***
