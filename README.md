@@ -108,10 +108,8 @@
 https://github.com/aravind26csbs/developer-cards-react-app.git
    
    Github Actions Pipeline:
-   ![hello](assignment/hello-d.png)
-
-   ![pg](assignment/deploy-pg.png)
-    
+  ![image](https://github.com/user-attachments/assets/4ad2ea78-686a-4b96-b5b6-eaa580f98d4f)
+  
 ![image](https://github.com/user-attachments/assets/d64d3f83-6494-4844-ba91-eda2063c41b8)
 
  URL: https://aravind26csbs.github.io/developer-cards-react-app/
